@@ -6,7 +6,7 @@ A simple social media work that I prepared using plain HTML and CSS. I plan to w
 ## Project Screenshots
 
 
-![Screenshot](https://www.linkpicture.com/q/Frame-18.png)
+![Screenshot](https://www.linkpicture.com/q/Frame-18-1.png)
 
   
 ## Lessons Learned
